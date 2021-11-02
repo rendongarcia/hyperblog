@@ -1,1 +1,0 @@
-este documento se borrará después de hacerle commit, con git rm --soft
