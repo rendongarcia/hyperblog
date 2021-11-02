@@ -1,0 +1,1 @@
+este también se borrará pero con git rm --force
