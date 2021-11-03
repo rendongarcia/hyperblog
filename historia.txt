@@ -7,3 +7,5 @@ Este cambio se hizo con posterioridad, después de hacer checkout a la versión 
 
 
 Ahora sí que quede este.
+
+Línea añadida desde linux con el otro usuario.
