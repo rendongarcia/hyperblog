@@ -12,3 +12,5 @@ Línea añadida desde linux con el otro usuario.
 
 
 Contribución al fork!!!
+
+Master 1 - inicio rebase
